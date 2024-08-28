@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#car-info {
+    margin: 2em auto;
+    padding: 1em;
+    border: 1px solid #000;
+    display: inline-block;
+    width: auto;
+}
